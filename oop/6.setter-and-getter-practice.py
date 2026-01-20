@@ -179,4 +179,3 @@ print()
 
 print("Gurbaz's Strike Rate: ", Gurbaz.calculate_strike_rate)
 print("Rashid Khan's Economy: ", Rashid.calculate_economy)
-
